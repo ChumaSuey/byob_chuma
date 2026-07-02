@@ -21,7 +21,7 @@ Blood Instinct credit author : Chuma (Synth and Drum machine).
 
 ### General Information / Behind the scenes.
 
-This map was a challenge but a fun one, my close friend Jason gifted me Aseprite a while back and i practiced 3 drawings (they are actually included as an easter egg secret with a gameplay reward of course), i gave it a pause and when this jam was announced i started mocking up ideas.
+This map was a challenge but a fun one, my close friend Dipper gifted me Aseprite a while back and i practiced 3 drawings (they are actually included as an easter egg secret with a gameplay reward of course), i gave it a pause and when this jam was announced i started mocking up ideas.
 
 The name comes up from the Doom map "Killer Colours" from the wad "Alien Vendetta" (Map 31), said map uses pure colors for all the sectors... instead of a remake i made my own map, i wanted to name it in Japanese using Romaji ( the Japanese alphabet but in Latin alphabet), due to limitations i named it in english how it would sound in Romaji... if you pronounce it the way it sounds in japanese "Kira Karaz" it sounds Killer Colors and in Neon since... It's Chumastic and A E S T H E T I C (in the best way i could do it, of course)
 
@@ -45,6 +45,7 @@ Special thanks to the Doom Community for Alien Vendetta, for Map 31 Killer Colou
 
 - Yuyi.
 - Alunadrern.
+- Dipper.
 - bmFbr.
 - Paril.
 - CommonCold.
